@@ -1,0 +1,42 @@
+body {
+    background-color: #ADD8E6; /* Fondo azul claro */
+    font-family: Arial, sans-serif; /* Tipografía de la página */
+    color: #333; /* Color del texto */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4682B4; /* Fondo del encabezado */
+    color: white; /* Color del texto del encabezado */
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+nav {
+    background-color: #5F9EA0; /* Fondo de la barra de navegación */
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white; /* Color de los enlaces */
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline; /* Subrayar enlaces al pasar el mouse */
+}
+footer {
+    background-color: #4682B4; /* Fondo del pie de página */
+    color: white; /* Color del texto del pie de página */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
