@@ -31,3 +31,12 @@ nav a {
 nav a:hover {
     text-decoration: underline; /* Subrayar enlaces al pasar el mouse */
 }
+footer {
+    background-color: #4682B4; /* Fondo del pie de página */
+    color: white; /* Color del texto del pie de página */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
